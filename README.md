@@ -1,7 +1,8 @@
 # learn_git
-## git
-分布式版本控制软件
-git init 初始化git项目
+## git 分布式版本控制软件  
+
+git init 初始化git项目  
+
 git config --global user.name "" 初始化用户名配置
 git config --global user.email  "" 初始化邮箱配置
 git config --global --list 列出配置文件
