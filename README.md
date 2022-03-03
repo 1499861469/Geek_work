@@ -1,5 +1,5 @@
 # learn_git
-git
+## git
 分布式版本控制软件
 git init 初始化git项目
 git config --global user.name "" 初始化用户名配置
